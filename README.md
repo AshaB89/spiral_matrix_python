@@ -7,11 +7,11 @@ This repository contains a Python implementation to generate an **N × N spiral 
 Create a square matrix filled with numbers from 1 to N² arranged in a spiral order.
 
 Example for n = 3
-
+```
 1 2 3
 8 9 4
 7 6 5
-
+```
 ## Features
 
 * Generates spiral matrix
@@ -21,3 +21,4 @@ Example for n = 3
 ## Language
 
 Python
+
